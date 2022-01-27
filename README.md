@@ -16,10 +16,16 @@ After cloning, navigate into the repository's directory:
 cd data_viz_final_project
 ```
 
-Finally, run the python program (note: make sure python3 is installed on your computer):
+Run the python program (note: make sure python3 is installed on your computer):
 
 ```
 python3 app.py
+```
+
+Finally, open an internet browswer of your choice and navigate to the following url:
+
+```
+http://localhost:8050/
 ```
 
 Alternatively, you can email <clark37@hawaii.edu> to schedule a viewing.
