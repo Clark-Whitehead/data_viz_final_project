@@ -1,5 +1,7 @@
 # Data Visualization Final Project
 
+<img src="https://github.com/Clark-Whitehead/data_viz_final_project/blob/main/assets/charactersChart.png?raw=true" width="500" alt="sample_output">
+
 ### Plotly Website
 
 The results from the Reddit Sentiment and Stock Price notebook above has been included in a plotly website (coded in Python using Dash). We also included a bar graph depicting which Disney characters were discussed the most on the r/Disney subreddit, as well as an interactive map of Disneyland with each ride's sentiment (taken from r/Disneyland) being displayed. 
