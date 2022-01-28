@@ -1,6 +1,6 @@
 # Data Visualization Final Project
 
-<img src="https://github.com/Clark-Whitehead/data_viz_final_project/blob/main/assets/charactersChart.png?raw=true" width="500" alt="sample_output">
+<img src="https://github.com/Clark-Whitehead/data_viz_final_project/blob/main/assets/charactersChart.png?raw=true" width="800" alt="sample_output">
 
 ### Plotly Website
 
